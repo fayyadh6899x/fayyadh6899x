@@ -14,6 +14,14 @@
 
 ###
 
+<p align="left">I am a third-semester Informatics Engineering student at Politeknik Negeri Samarinda, with practical work experience and active engagement in both campus and external organizations. My leadership experience has equipped me with the ability to guide teams, collaborate effectively, adapt to changing circumstances, communicate clearly, and perform under pressure. 
+
+My technical skill set includes graphic design, junior full-stack development, mobile UI/UX development, as well as proficiency in tools such as Photoshop, Visual Studio Code, and Microsoft Office. I am dedicated to continuous learning and development to expand my knowledge base, gain valuable experience, and enhance my technical and professional capabilities. 
+
+I am driven by a strong passion for technology and a commitment to personal and professional growth, making me eager to contribute meaningfully to projects and organizations that align with my skills and aspirations.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -29,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" height="40" alt="bootsrap logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -41,3 +47,4 @@
 <a href="https://instagram.com/fayyadhrifqii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayyadhrifqii" height="30" width="40" /></a>
 </p>
 
+###
