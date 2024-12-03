@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since i was born (joking)<br>📚 I'm currently learning Laravel and Flutter<br>🎯 Goals: Full-stack Developer<br>🎲 Fun fact: There's no fun fact</p>
+<p align="left">✨ Creating bugs since i was born (joking)<br>📚 I'm currently learning Laravel and Javascript<br>🎯 Goals: Full-stack Developer<br>🎲 Fun fact: There's no fun fact</p>
 
 ###
 
